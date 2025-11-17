@@ -3,7 +3,11 @@ Brown Ranches Website 🐄🌾
 A responsive and clean frontend website built using HTML, CSS, and JavaScript.
 This project showcases a modern UI layout, responsive sections, reusable components, and interactive JavaScript features suitable for learning frontend fundamentals.
 
+🚀 Live Demo
 
+👉 https://thecodesculptor-cmd.github.io/Brown_Ranches_Website/
+
+🛠️ Tech Stack
 🛠️ Tech Stack
 
 HTML5 – Semantic structure
